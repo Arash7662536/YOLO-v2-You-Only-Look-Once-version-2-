@@ -4,6 +4,8 @@ Welcome to the YOLO v2 project! This repository demonstrates the implementation 
 
 # Introduction
 YOLO v2, also known as YOLO9000, is an advanced object detection model that builds upon the strengths of its predecessor, YOLO v1, while addressing its limitations. Introduced by Joseph Redmon and Ali Farhadi, YOLO v2 offers significant improvements in both speed and accuracy, making it a powerful tool for detecting objects in images and videos.
+
+
 ![download](https://github.com/Arash7662536/YOLO-v2-You-Only-Look-Once-version-2-/assets/129587820/c8599a52-c236-44a2-a2b6-6ff3dd2ba8c1)
 
 # Key advancements in YOLO v2 include:
